@@ -45,4 +45,5 @@ void main(List<String> args) {
   // final logger = new Logger(); // Los mixins no pueden ser instanciados
 
   final ceres = new Asteroide('Ceres');
+  print(ceres);
 }
