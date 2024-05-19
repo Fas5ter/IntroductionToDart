@@ -1,3 +1,3 @@
 # Notas Dart
 
-# Ejercicios básicos de cursos de Dart
+# Tópicos básicos de Dart 
